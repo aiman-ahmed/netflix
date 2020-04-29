@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+    font-family: 'Ubuntu', sans-serif;
+    background: #2e2e2e;
+}
+.showcase {
+    background: url(bg.jpg) no-repeat center center/cover ;
+    width: 100%;
+    align-items: center;
+    padding-bottom: 1rem;
+    box-shadow: inset 20px 100px 250px 5px #000000, inset -20px -100px 250px 5px #000000;
+
+}
+.netflix-logo {
+    width: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+
+    
+}
+.btn-sign-in {
+    text-align: right;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: red;
+    border: none;
+    color:white;
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: capitalize;
+}
+.header-content {
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+}
+.header-content p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.input-email {
+    text-align: center;
+
+margin-left: 0.5rem;
+padding-right: 13rem;
+padding-top: 0.8rem;
+padding-bottom: 0.8rem;
+margin-bottom: 1rem;
+border-radius: 0.2rem;
+border: none;
+}
+
+.btn-xl {
+    color:white;
+    background-color: red;
+    font-size: 1rem;
+    border: none;
+    border-radius: 0.5rem 
+}
+.secound-page {
+    background: black;
+    color: white;
+    padding-bottom: 10rem;
+    text-align: center;
+}
+.secound-page h1 {
+    text-align: center;
+    padding-top: 4rem
+}
+.secound-page p{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.secound-page img {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 15rem;
+    padding-top: 3rem;
+}
+.theard-pag {
+    background: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3rem;
+}
+.theard-pag h1{
+    text-align: center;
+    padding-top: 4rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.theard-pag img {
+    text-align: center;
+    width: 20rem;
+}
+.theard-pag p {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.page-4 {
+    text-align: center;
+    color: white;
+    background: #000000;
+    padding-bottom: 2rem;
+}
+.page-4 h1 {
+    text-align: center;
+    padding-top: 3rem;
+
+}
+.page-4 p {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.page-4 img {
+    text-align: center;
+    justify-items: center;
+    width: 20rem;
+}
+.links-all {
+    background: black;
+    text-align: center;
+    justify-content: center;
+}
+
+.links-all ul {
+list-style-type: none;
+text-decoration: none;
+color: white;
+}
+.links-all li a {
+    color: white;
+    text-decoration: none;
+    line-height: 5rem;
+    padding: 1rem;
+    background: #2e2e2e;
+    border-radius: 0.9rem;
+    margin-right: 2.5rem;
+}
+
+
+
+
+
+
+
+
+
